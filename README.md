@@ -4,12 +4,12 @@ Second Project for COSC1437
 
 The finished product made in XCode
 
-My first "major" project made in C++, utilizing the many different features of C++ and totaling over 700 lines of code!
+My first "major" project made entirely in C++, utilizing the many different features of C++ and totaling over 700 lines of code!
 
 Problems I encountered but didn't have the time to fix:
 - First, the ship's fuel stays the same no matter the number of islands visited or how long the ship is "sailing".
 - I tried implementing many changes to improve the randomness of events, but could never get it to work perfectly. The events don't
-- occur has frequently as I would like.
+occur as frequently as I would like.
 
   
 # Island Game
